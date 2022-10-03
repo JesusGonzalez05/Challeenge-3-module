@@ -13,3 +13,4 @@ Challenge 3 is a random password generator build from HTML, CSS and JavaScript t
 <img width="1440" alt="Screen Shot 2022-10-03 at 4 36 04 PM" src="https://user-images.githubusercontent.com/98119774/193680083-bd9f1305-e497-42d4-a695-916b3cf94b3a.png">
 
 ## Link
+https://jesusgonzalez05.github.io/Challenge-3-module/
